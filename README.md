@@ -6,7 +6,6 @@ This project performs Social Network Analysis (SNA) on the Indian railway system
 
 - `Network Analysis of Indian Railway.ipynb`: Main notebook containing all analysis.
 - `data/`: Folder containing raw or processed railway data.
-- `plots/`: Folder where generated graphs and network visualizations are saved.
 
 ## 📊 Features
 
