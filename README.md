@@ -1,12 +1,29 @@
-# Network Analysis of Indian Railway 🚆
+# Network Analysis of Indian Railway
 
-This project performs Social Network Analysis on the Indian Railway Network using graph theory and Python libraries like NetworkX and Matplotlib.
+This project performs Social Network Analysis (SNA) on the Indian railway system using a Jupyter notebook.
 
-## 📂 Files
+## 📁 Project Structure
 
-- `Network Analysis of Indian Railway.ipynb`: Jupyter notebook with code and analysis.
-- `README.md`: This file.
+- `Network Analysis of Indian Railway.ipynb`: Main notebook containing all analysis.
+- `data/`: Folder containing raw or processed railway data.
+- `plots/`: Folder where generated graphs and network visualizations are saved.
 
 ## 📊 Features
 
-- Railway stations as nodes and train routes as edges
+- Graph construction of railway network
+- Degree/centrality analysis
+- Community detection
+- Visualization using NetworkX and Matplotlib
+
+## 📦 Requirements
+
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- networkx
+- matplotlib
+
+## 🚀 How to Run
+
+```bash
+jupyter notebook "Network Analysis of Indian Railway.ipynb"
